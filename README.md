@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Aspiring Data Engineer
+
+Currently learning Python
+
+Feel free to share with me any Data & BI resources you find interesting!
+
 <!--
 **piter906432/piter906432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
